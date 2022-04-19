@@ -1,3 +1,3 @@
 https://go.dev/doc/
 
-Currently on: https://go.dev/tour/flowcontrol/3
+Currently on: https://go.dev/tour/flowcontrol/8
