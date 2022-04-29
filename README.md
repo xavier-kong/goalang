@@ -1,3 +1,3 @@
 https://go.dev/doc/
 
-Currently on: https://go.dev/tour/moretypes/15
+Currently on: https://go.dev/tour/moretypes/16
